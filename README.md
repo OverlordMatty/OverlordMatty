@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OverlordMatty from Croatia
 - 👀 I’m interested in SHC mapping, AIV & AIC design, balancing and overall improvement of the game
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on stuff
+- 🌱 I’m currently learning something
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me - UCP discord server https://discord.gg/CqaAsm4aKD
 
 <!---
